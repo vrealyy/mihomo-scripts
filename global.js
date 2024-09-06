@@ -1,6 +1,6 @@
 // Define the `main` function
 
-const proxyName = "🛜代理模式";
+const proxyName = "代理模式";
 
 function main(params) {
     if (!params.proxies) return params;
