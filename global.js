@@ -1,4 +1,4 @@
-// Define the `main` function
+// Define the `main` function global
 
 const proxyName = "代理模式";
 
