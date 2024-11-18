@@ -1,6 +1,6 @@
 // Define the `main` function global
 
-const proxyName = "代理模式";
+const proxyName = "Proxy";
 
 function main(params) {
     if (!params.proxies) return params;
