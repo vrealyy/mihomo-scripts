@@ -1,4 +1,4 @@
-// Define the `main` function global
+// Define the `main` function global script
 
 const proxyName = "Proxy";
 
